@@ -33,7 +33,7 @@ It took about a week (outside of working hours) to set up and customise this blo
 
 8. For ALL the photos to be uploaded, CSS classes have been added - these came from [zurb.com](http://www.zurb.com/playground/css3-polaroids)
 
-9. [dummyimage.com](http://dummyimage.com/) is used to generate customised-sized images for testing.
+9. [dummyimage.com](http://dummyimage.com/) is used to generate custom-sized images for testing.
 
 10. [dabblet.com](http://dabblet.com/) is used as a sandbox type instant-response CSS/HTML editor.
 

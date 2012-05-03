@@ -5,6 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
+He is a proper geek.  I am less so.
 
 <ul class="posts">
   {% for post in site.posts %}

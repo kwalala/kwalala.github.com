@@ -10,7 +10,7 @@ tags: [house hunting, property]
 Speedy
 
 Months of browsing on [rightmove](http://www.rightmove.co.uk) aside, it all
-happened in the blink of an eye.
+happened in the blink of an eye. 
 
 Tuesday 15th May, 12.30pm: We view kampong house
 Tuesday 15th May, 5.30pm: Our flat is valued

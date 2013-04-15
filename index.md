@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-test He is a proper geek.  She is less so.
+He is a proper geek.  She is less so.
 
 <ul class="posts">
   {% for post in site.posts %}
